@@ -12,11 +12,11 @@ Dentro desse projeto podemos aplicar diversar tags, tanto dentro do HTML, quanto
 
 * Arquivo CSS:
 
-** podemos trabalhar com a criaçao de variaveis para facilitar a alteraçao futura mais facil;
-** fizemos a inserção de figuras atraves da URL;
-** utilizamos tag: display: grid
-** podemos uma figura como background;
-** trabalhamos com tag: flexbox:
+* * podemos trabalhar com a criaçao de variaveis para facilitar a alteraçao futura mais facil;
+* * fizemos a inserção de figuras atraves da URL;
+* * utilizamos tag: display: grid;
+* * podemos uma figura como background;
+* * trabalhamos com tag: flexbox:
 
 Abaixo uma previa de como ficou nossa pagina:
 
